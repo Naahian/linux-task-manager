@@ -1,6 +1,6 @@
 # task_manager
 
-A new Flutter project.
+Offline Notion alternative for linux. Vibe coded app for personal use.
 
 ## Getting Started
 
